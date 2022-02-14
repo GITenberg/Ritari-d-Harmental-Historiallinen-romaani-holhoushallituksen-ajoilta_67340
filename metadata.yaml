@@ -1,0 +1,44 @@
+_repo: Ritari-d-Harmental-Historiallinen-romaani-holhoushallituksen-ajoilta_67340
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Hämeen-Anttila, Väinö
+    aliases:
+    - Hameen-Anttila, Vaino
+    - Hämeen-Anttila, V.
+    birthdate: 1878
+    deathdate: 1942
+    gutenberg_agent_id: '43032'
+    url: http://www.gutenberg.org/2009/agents/43032
+    wikipedia: https://fi.wikipedia.org/wiki/Väinö_Hämeen-Anttila
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexander
+    - Dumas, Alexandre, pere
+    - père, Alexandre Dumas
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia:
+    - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+    - https://fr.wikipedia.org/wiki/Alexandre_Dumas
+description: ''
+gutenberg_issued: '2022-02-06'
+identifiers:
+  gutenberg: '67340'
+language: fi
+pgterms:marc905: 20200813065022dumas
+pgterms:marc906: '1923'
+pgterms:marc907: FI
+production_note: Tapio Riikonen
+publication_note: Finland :Arvi A. Karisto,1923,reprint 1967.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Ritari d''Harmental: Historiallinen romaani holhoushallituksen ajoilta'
+url: http://www.gutenberg.org/ebooks/67340
