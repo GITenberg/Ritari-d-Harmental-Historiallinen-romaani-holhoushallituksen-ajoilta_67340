@@ -11,6 +11,9 @@ contributor:
     gutenberg_agent_id: '43032'
     url: http://www.gutenberg.org/2009/agents/43032
     wikipedia: https://fi.wikipedia.org/wiki/Väinö_Hämeen-Anttila
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Dumas, Alexandre
@@ -26,6 +29,8 @@ creator:
     - https://en.wikipedia.org/wiki/Alexandre_Dumas,_père
     - https://fr.wikipedia.org/wiki/Alexandre_Dumas
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67340#Ritari-d-Harmental-Historiallinen-romaani-holhoushallituksen-ajoilta
 gutenberg_issued: '2022-02-06'
 identifiers:
   gutenberg: '67340'
